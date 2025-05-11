@@ -9,6 +9,7 @@ value_growth_strategy/
 ├── data/                  # Raw and processed data files
 ├── notebooks/             # Exploration and analysis Jupyter notebooks
 ├── src/                   # Python package modules (currently empty – add your modules here)
+├── report/                   # Final report documenting the methodology and results
 ├── requirements.txt       # Pinned dependencies
 ├── README.md              # Project overview and instructions
 ```
