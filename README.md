@@ -25,13 +25,7 @@ value_growth_strategy/
    ```bash
    pip install -r requirements.txt
    ```
-3. (Optional) Install in editable mode:
-
-   ```bash
-   pip install -e .
-   ```
-
 ## Key Scripts and Notebooks
 
-* `notebooks/Full_Run.ipynb`: End-to-end example demonstrating data loading, signal creation, backtest, and results visualization.
+* `notebooks/value_factor.ipynb`: End-to-end example demonstrating data loading, signal creation, backtest, and results visualization.
 
